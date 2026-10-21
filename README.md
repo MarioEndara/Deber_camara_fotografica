@@ -45,3 +45,19 @@ Capturas de pantalla de la aplicacion
 
 
 
+
+
+
+
+
+
+
+4) Foto eliminada
+<img width="652" height="651" alt="image" src="https://github.com/user-attachments/assets/3eb105e8-6a48-48e3-ac55-9d79c47108ea" />
+
+
+
+
+
+   
+
