@@ -35,8 +35,22 @@ Capturas de pantalla de la aplicacion
 
 
 
+
+
+
+
 2)Captura de Galeria con fotografías
 <img width="665" height="648" alt="image" src="https://github.com/user-attachments/assets/b18ddabc-498c-4d8c-9f8a-e05c512bd5d0" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -66,8 +80,33 @@ Capturas de pantalla de la aplicacion
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 4) Foto eliminada
 <img width="652" height="651" alt="image" src="https://github.com/user-attachments/assets/3eb105e8-6a48-48e3-ac55-9d79c47108ea" />
+
+
+
+
+
+
+
+
+
 
 
 
